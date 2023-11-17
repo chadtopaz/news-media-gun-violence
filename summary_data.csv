@@ -1,0 +1,5 @@
+"","Var1","Var2","Freq","tiebreaker_agreement_human1","tiebreaker_agreement_gpt","Var1.1","Freq.1"
+"1","Exclude","Exclude",677,29,26,"Exclude",684
+"2","Include","Exclude",28,29,26,"Include",140
+"3","Exclude","Include",27,29,26,"Exclude",684
+"4","Include","Include",92,29,26,"Include",140
